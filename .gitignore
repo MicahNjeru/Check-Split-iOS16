@@ -1,0 +1,19 @@
+## Folders to ignore
+# User settings
+
+xcuserdata/
+
+# Files to ignore
+
+*.DS_Store
+*.xcscmblueprint
+*.xccheckout
+*.xcscmblueprint
+*.xccheckout
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/project.xcworkspace/
+!*.xcworkspace/contents.xcworkspacedata
+/*.gcno
+**/xcshareddata/WorkspaceSettings.xcsettings

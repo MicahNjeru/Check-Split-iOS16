@@ -11,6 +11,14 @@
 		75651DDA29CB6DC8000D225B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75651DD929CB6DC8000D225B /* ContentView.swift */; };
 		75651DDC29CB6DC9000D225B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 75651DDB29CB6DC9000D225B /* Assets.xcassets */; };
 		75651DDF29CB6DC9000D225B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 75651DDE29CB6DC9000D225B /* Preview Assets.xcassets */; };
+		75EBF54E2AE3080B00B631B7 /* DarkModeScene1.png in Resources */ = {isa = PBXBuildFile; fileRef = 75EBF5482AE3080A00B631B7 /* DarkModeScene1.png */; };
+		75EBF54F2AE3080B00B631B7 /* DarkModeScene2.png in Resources */ = {isa = PBXBuildFile; fileRef = 75EBF5492AE3080A00B631B7 /* DarkModeScene2.png */; };
+		75EBF5502AE3080B00B631B7 /* LightModeScene2.png in Resources */ = {isa = PBXBuildFile; fileRef = 75EBF54A2AE3080A00B631B7 /* LightModeScene2.png */; };
+		75EBF5512AE3080B00B631B7 /* LightModeScene1.png in Resources */ = {isa = PBXBuildFile; fileRef = 75EBF54B2AE3080A00B631B7 /* LightModeScene1.png */; };
+		75EBF5522AE3080B00B631B7 /* LightModeScene3.png in Resources */ = {isa = PBXBuildFile; fileRef = 75EBF54C2AE3080B00B631B7 /* LightModeScene3.png */; };
+		75EBF5532AE3080B00B631B7 /* DarkModeScene3.png in Resources */ = {isa = PBXBuildFile; fileRef = 75EBF54D2AE3080B00B631B7 /* DarkModeScene3.png */; };
+		75EBF5562AE3081600B631B7 /* DarkModeGif.gif in Resources */ = {isa = PBXBuildFile; fileRef = 75EBF5542AE3081600B631B7 /* DarkModeGif.gif */; };
+		75EBF5572AE3081600B631B7 /* LightModeGif.gif in Resources */ = {isa = PBXBuildFile; fileRef = 75EBF5552AE3081600B631B7 /* LightModeGif.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +27,15 @@
 		75651DD929CB6DC8000D225B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		75651DDB29CB6DC9000D225B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		75651DDE29CB6DC9000D225B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		75EBF5452AE302A100B631B7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		75EBF5482AE3080A00B631B7 /* DarkModeScene1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DarkModeScene1.png; sourceTree = "<group>"; };
+		75EBF5492AE3080A00B631B7 /* DarkModeScene2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DarkModeScene2.png; sourceTree = "<group>"; };
+		75EBF54A2AE3080A00B631B7 /* LightModeScene2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LightModeScene2.png; sourceTree = "<group>"; };
+		75EBF54B2AE3080A00B631B7 /* LightModeScene1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LightModeScene1.png; sourceTree = "<group>"; };
+		75EBF54C2AE3080B00B631B7 /* LightModeScene3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LightModeScene3.png; sourceTree = "<group>"; };
+		75EBF54D2AE3080B00B631B7 /* DarkModeScene3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DarkModeScene3.png; sourceTree = "<group>"; };
+		75EBF5542AE3081600B631B7 /* DarkModeGif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = DarkModeGif.gif; sourceTree = "<group>"; };
+		75EBF5552AE3081600B631B7 /* LightModeGif.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = LightModeGif.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +52,9 @@
 		75651DCB29CB6DC8000D225B = {
 			isa = PBXGroup;
 			children = (
+				75EBF5472AE307EA00B631B7 /* Gifs */,
+				75EBF5462AE307E500B631B7 /* Images */,
+				75EBF5452AE302A100B631B7 /* README.md */,
 				75651DD629CB6DC8000D225B /* Check-Split */,
 				75651DD529CB6DC8000D225B /* Products */,
 			);
@@ -67,6 +87,28 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		75EBF5462AE307E500B631B7 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				75EBF5482AE3080A00B631B7 /* DarkModeScene1.png */,
+				75EBF5492AE3080A00B631B7 /* DarkModeScene2.png */,
+				75EBF54D2AE3080B00B631B7 /* DarkModeScene3.png */,
+				75EBF54B2AE3080A00B631B7 /* LightModeScene1.png */,
+				75EBF54A2AE3080A00B631B7 /* LightModeScene2.png */,
+				75EBF54C2AE3080B00B631B7 /* LightModeScene3.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		75EBF5472AE307EA00B631B7 /* Gifs */ = {
+			isa = PBXGroup;
+			children = (
+				75EBF5542AE3081600B631B7 /* DarkModeGif.gif */,
+				75EBF5552AE3081600B631B7 /* LightModeGif.gif */,
+			);
+			path = Gifs;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -95,7 +137,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1420;
-				LastUpgradeCheck = 1420;
+				LastUpgradeCheck = 1500;
 				TargetAttributes = {
 					75651DD329CB6DC8000D225B = {
 						CreatedOnToolsVersion = 14.2;
@@ -125,6 +167,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				75EBF5562AE3081600B631B7 /* DarkModeGif.gif in Resources */,
+				75EBF5502AE3080B00B631B7 /* LightModeScene2.png in Resources */,
+				75EBF54F2AE3080B00B631B7 /* DarkModeScene2.png in Resources */,
+				75EBF5512AE3080B00B631B7 /* LightModeScene1.png in Resources */,
+				75EBF54E2AE3080B00B631B7 /* DarkModeScene1.png in Resources */,
+				75EBF5522AE3080B00B631B7 /* LightModeScene3.png in Resources */,
+				75EBF5532AE3080B00B631B7 /* DarkModeScene3.png in Resources */,
+				75EBF5572AE3081600B631B7 /* LightModeGif.gif in Resources */,
 				75651DDF29CB6DC9000D225B /* Preview Assets.xcassets in Resources */,
 				75651DDC29CB6DC9000D225B /* Assets.xcassets in Resources */,
 			);
@@ -181,6 +231,7 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -241,6 +292,7 @@
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
