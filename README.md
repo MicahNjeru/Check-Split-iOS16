@@ -3,14 +3,6 @@
 * It includes a selection picker for popular tip percentages and a selection of the number of friends.
 * It also uses the user's local currency settings 
 
-### What I learnt..
-How to:
-- read user input.
-- format textfield input into double data type 
-- set and configure selection pickers
-- provide a list picker
-- display computed input 
-
 ## Live Demo
 ### Light Mode
 ![Light Mode GIF](https://github.com/MicahNjeru/Check-Split-iOS16/blob/main/Gifs/LightModeGif.gif)
@@ -27,3 +19,11 @@ How to:
 ![Dark Mode Scene 1](https://github.com/MicahNjeru/Check-Split-iOS16/blob/main/Images/DarkModeScene1.png)
 ![Dark Mode Scene 2](https://github.com/MicahNjeru/Check-Split-iOS16/blob/main/Images/DarkModeScene2.png)
 ![Dark Mode Scene 3](https://github.com/MicahNjeru/Check-Split-iOS16/blob/main/Images/DarkModeScene3.png)
+
+### What I learnt..
+How to:
+- read user input.
+- format textfield input into double data type 
+- set and configure selection pickers
+- provide a list picker
+- display computed input 
