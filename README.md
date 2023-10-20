@@ -1,4 +1,7 @@
 # Check-Split
+* This is an app that helps users know how much to split their meals between them and their friends.
+* It includes a selection picker for popular tip percentages and a selection of the number of friends.
+* It also uses the user's local currency settings 
 
 ### What I learnt..
 How to:
